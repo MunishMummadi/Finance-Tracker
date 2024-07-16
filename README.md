@@ -75,4 +75,4 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact [moneymindedmunish1@gmail.com].
+For any questions or feedback, please contact (mail)[moneymindedmunish1@gmail.com].
